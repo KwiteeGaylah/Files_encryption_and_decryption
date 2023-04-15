@@ -12,7 +12,7 @@ The Program is build by separating the functionalities into two modules (encrypt
 First, install the required python module:
 
 ```
-pip3 install pycryptodome
+pip install pycryptodome
 ```
 # Usage
 The program can be executed by running the main.py module. The main file is a command line tool that interacts with the user.
